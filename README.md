@@ -1,5 +1,7 @@
 # Hi, I’m Collin
 
+**[collincraig.dev](https://collincraig.dev)** · X [@CollinCraigAI](https://x.com/CollinCraigAI) · YouTube [@collincraigai](https://youtube.com/@collincraigai)
+
 I’m studying Uncrewed and Autonomous Systems at Embry-Riddle. I work on autonomy test and safety software: simulation, testing and the logic that decides when an aircraft lands or aborts.
 
 ## Current work
