@@ -2,23 +2,25 @@
 
 **[collincraig.dev](https://collincraig.dev)** · X [@CollinCraigAI](https://x.com/CollinCraigAI) · YouTube [@collincraigai](https://youtube.com/@collincraigai)
 
-I’m studying Uncrewed and Autonomous Systems at Embry-Riddle. I work on autonomy test and safety software: simulation, testing and the logic that decides when an aircraft lands or aborts.
+I’m studying Uncrewed and Autonomous Systems at Embry-Riddle. I direct AI agents to build real products. My own focus is autonomy: simulation, testing and the logic that decides when an aircraft lands or aborts.
 
 ## Current work
 
+- **[Flight Day](https://flightday.app)** *(in development)* — An alarm clock that makes your morning a rocket launch. It counts down on your screens, lifts off, then briefs you on your day. Free and open source (Apache-2.0): [code](https://github.com/CollinCraig/flightday). The first release is planned for 8 December 2026, on the web, Android, iPhone and iPad. Apple TV, Mac and Watch follow later. It runs in my own home today. I build it with AI agents, behind privacy and release checks.
 - **[Precision Landing Lab](https://github.com/CollinCraig/precision-landing-lab)** *(public, early stage)* — An autonomous copter finds a rooftop vertiport pad in ArduPilot SITL and lands on it, or safely aborts and goes around. Two parts:
-  - **The platform** — simulation tooling, a replay viewer, a run validator and CI. An AI agent team builds it; I direct it and review every gate.
+  - **The platform** — simulation tooling, a replay viewer, a run validator and CI. An AI agent team builds it; I direct and review it.
   - **`landing-pilot`** — my own code: the mission state machine, the frame chain, the estimator and the abort logic. I write it myself, with a logged hint ladder and no AI-written solutions. It goes public with its first flight.
-  - Every result is benchmarked: pre-registered seeds, held-out tests, confidence intervals, and failures reported.
-- **[Morrowdock](https://github.com/morrowdock)** — Technical project lead (AI-agent team). Open-source learning tools, including [MartyGraphics](https://github.com/morrowdock/martygraphics).
+  - Results will be benchmarked: pre-registered seeds, held-out tests, confidence intervals, and failures reported. There are no landing-accuracy numbers yet.
+  - [How it works](https://collincraig.dev/work/precision-landing-lab/)
+- **[Morrowdock](https://morrowdock.app)** *(private beta)* — The open learning studio. Technical project lead (AI-agent team). Its open-source library is [MartyGraphics](https://github.com/morrowdock/martygraphics) *(early preview)*, a Swift library for interactive 2D and 3D teaching visuals.
 - **pymavlink** — [PR #1321](https://github.com/ArduPilot/pymavlink/pull/1321) (open): write NaN in the Mission Planner spelling in waypoint files.
 - **FAA Part 107** — exam in December 2026.
 
 ## How I work
 
-I use AI coding agents for platform work, and I say so. My own autonomy code is a separate repository where I write the logic myself, so you can see exactly what is mine. Before AI tools, I built and ran servers for gaming communities (Lua, SQL, Linux, virtual machines).
+I use AI coding agents for platform work, and I say so. My own autonomy code is a separate repository where I write the logic myself, so you can see exactly what is mine. [Flight Day](https://collincraig.dev/work/flight-day/), [Precision Landing Lab](https://collincraig.dev/work/precision-landing-lab/), [Morrowdock](https://collincraig.dev/work/morrowdock/) and [MartyGraphics](https://collincraig.dev/work/martygraphics/) each have a short “How it works” page. Before AI tools, I built and ran servers for gaming communities (Lua, SQL, Linux, virtual machines).
 
-I’m open to internships and student roles in autonomy software, testing, simulation and integration.
+I’m open to forward deployed and applied-AI engineering roles, and to fixed-scope projects. I’m also open to internships and student roles in autonomy software, testing, simulation and integration.
 
 [LinkedIn](https://www.linkedin.com/in/collin-c/) · [X](https://x.com/CollinCraigAI)
 
