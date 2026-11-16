@@ -2,7 +2,11 @@
 
 **[collincraig.dev](https://collincraig.dev)** · X [@CollinCraigAI](https://x.com/CollinCraigAI) · YouTube [@collincraigai](https://youtube.com/@collincraigai)
 
-I’m studying Uncrewed and Autonomous Systems at Embry-Riddle. I direct AI agents to build real products. My own focus is autonomy: simulation, testing and the logic that decides when an aircraft lands or aborts.
+Software engineer · Embry-Riddle student (Uncrewed & Autonomous Systems) · autonomy, embedded AI & hardware
+
+I direct AI agents to build real products. My own focus is autonomy: simulation, testing and the logic that decides when an aircraft lands or aborts. I’m moving into embedded AI and hardware, alongside autonomy and eVTOL.
+
+My path is non-traditional: college coursework in computer science and information security, IT work, and years of building real software. The degree is in progress: a B.S., expected 2028.
 
 ## Current work
 
@@ -20,7 +24,7 @@ I’m studying Uncrewed and Autonomous Systems at Embry-Riddle. I direct AI agen
 
 I got into coding because I like hard problems. AI agents make me faster and let me build more than I could alone. With them, my job is direction, review and saying no. I use AI coding agents for platform work, and I say so. My own autonomy code is a separate repository where I write the logic myself, so you can see exactly what is mine. [Flight Day](https://collincraig.dev/work/flight-day/), [Precision Landing Lab](https://collincraig.dev/work/precision-landing-lab/), [Morrowdock](https://collincraig.dev/work/morrowdock/) and [MartyGraphics](https://collincraig.dev/work/martygraphics/) each have a short “How it works” page. Before AI tools, I built and ran servers for gaming communities (Lua, SQL, Linux, virtual machines).
 
-I’m open to forward deployed and applied-AI engineering roles, and to fixed-scope projects. I’m also open to internships and student roles in autonomy software, testing, simulation and integration.
+I’m open to forward deployed and applied-AI engineering roles, and to fixed-scope projects. I’m also open to internships and student roles in autonomy software, embedded systems and hardware, including testing, simulation and integration.
 
 [LinkedIn](https://www.linkedin.com/in/collin-c/) · [X](https://x.com/CollinCraigAI)
 
