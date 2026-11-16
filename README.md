@@ -24,7 +24,7 @@ My path is non-traditional: college coursework in computer science and informati
 
 I got into coding because I like hard problems. AI agents make me faster and let me build more than I could alone. With them, my job is direction, review and saying no. I use AI coding agents for platform work, and I say so. My own autonomy code is a separate repository where I write the logic myself, so you can see exactly what is mine. [Flight Day](https://collincraig.dev/work/flight-day/), [Precision Landing Lab](https://collincraig.dev/work/precision-landing-lab/), [Morrowdock](https://collincraig.dev/work/morrowdock/) and [MartyGraphics](https://collincraig.dev/work/martygraphics/) each have a short “How it works” page. Before AI tools, I built and ran servers for gaming communities (Lua, SQL, Linux, virtual machines).
 
-I’m open to forward deployed and applied-AI engineering roles, and to fixed-scope projects. I’m also open to internships and student roles in autonomy software, embedded systems and hardware, including testing, simulation and integration. Open to remote.
+I’m open to forward deployed and applied-AI engineering roles, and to fixed-scope projects. I’m also open to internships and student roles in autonomy software, embedded systems and hardware, including testing, simulation and integration. Open to relocating after graduation.
 
 [LinkedIn](https://www.linkedin.com/in/collin-c/) · [X](https://x.com/CollinCraigAI)
 
