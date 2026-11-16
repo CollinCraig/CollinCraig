@@ -6,7 +6,7 @@ Software engineer · Embry-Riddle student (Uncrewed & Autonomous Systems) · aut
 
 I direct AI agents to build real products. My own focus is autonomy: simulation, testing and the logic that decides when an aircraft lands or aborts. I’m moving into embedded AI and hardware, alongside autonomy and eVTOL.
 
-My path is non-traditional: college coursework in computer science and information security, IT work, and years of building real software. The degree is in progress: a B.S. in Uncrewed and Autonomous Systems.
+My path is non-traditional: college coursework in computer science and information security, IT work, and years of building real software. The degree is in progress: a B.S. in Uncrewed and Autonomous Systems, expected 2028.
 
 ## Current work
 
