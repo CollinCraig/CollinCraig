@@ -8,11 +8,11 @@ I’m studying Uncrewed and Autonomous Systems at Embry-Riddle. I direct AI agen
 
 - **[Flight Day](https://flightday.app)** *(in development)* — An alarm clock that makes your morning a rocket launch. It counts down on your screens, lifts off, then briefs you on your day. Free and open source (Apache-2.0): [code](https://github.com/CollinCraig/flightday). The first release is planned for 8 December 2026, on the web, Android, iPhone and iPad. Apple TV, Mac and Watch follow later. It runs in my own home today. I build it with AI agents, behind privacy and release checks.
 - **[Precision Landing Lab](https://github.com/CollinCraig/precision-landing-lab)** *(public, early stage)* — An autonomous copter finds a rooftop vertiport pad in ArduPilot SITL and lands on it, or safely aborts and goes around. Two parts:
-  - **The platform** — simulation tooling, a replay viewer, a run validator and CI. An AI agent team builds it; I direct and review it.
-  - **`landing-pilot`** — my own code: the mission state machine, the frame chain, the estimator and the abort logic. I write it myself, with a logged hint ladder and no AI-written solutions. It goes public with its first flight.
+  - **The platform** — simulation tooling, a replay viewer, a run validator and CI. AI agents build it; I direct and review it.
+  - **`landing-pilot`** — my own code: the mission state machine, the frame chain, the estimator and the abort logic. I write it myself, with a logged hint ladder and no AI-written solutions. It goes public with its first simulated flight.
   - Results will be benchmarked: pre-registered seeds, held-out tests, confidence intervals, and failures reported. There are no landing-accuracy numbers yet.
   - [How it works](https://collincraig.dev/work/precision-landing-lab/)
-- **[Morrowdock](https://morrowdock.app)** *(private beta)* — The open learning studio. Technical project lead (AI-agent team). Its open-source library is [MartyGraphics](https://github.com/morrowdock/martygraphics) *(early preview)*, a Swift library for interactive 2D and 3D teaching visuals.
+- **[Morrowdock](https://morrowdock.app)** *(private beta)* — The open learning studio. I direct the AI agents that build it. Its open-source library is [MartyGraphics](https://github.com/morrowdock/martygraphics) *(early preview)*, a Swift library for interactive 2D and 3D teaching visuals.
 - **pymavlink** — [PR #1321](https://github.com/ArduPilot/pymavlink/pull/1321) (open): write NaN in the Mission Planner spelling in waypoint files.
 - **FAA Part 107** — exam in December 2026.
 
